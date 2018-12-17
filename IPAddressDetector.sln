@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPAddressDetector", "IPAddressDetector\IPAddressDetector.csproj", "{7D0EFAEC-D40E-48AD-86BD-A3B739CEDA14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPAddressDetectorTest", "IPAddressDetectorTest\IPAddressDetectorTest.csproj", "{BCF6892C-A08E-4D44-8A60-714A5481DAF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0EFAEC-D40E-48AD-86BD-A3B739CEDA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0EFAEC-D40E-48AD-86BD-A3B739CEDA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0EFAEC-D40E-48AD-86BD-A3B739CEDA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0EFAEC-D40E-48AD-86BD-A3B739CEDA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF6892C-A08E-4D44-8A60-714A5481DAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF6892C-A08E-4D44-8A60-714A5481DAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF6892C-A08E-4D44-8A60-714A5481DAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF6892C-A08E-4D44-8A60-714A5481DAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {524900CA-25CC-4F5E-B98E-F13AEB8B591C}
+	EndGlobalSection
+EndGlobal
